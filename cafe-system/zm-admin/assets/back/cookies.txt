@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.creative-tim.com	TRUE	/	FALSE	1999999999	__cfduid	d23263b148aeaaa604e78b7229f8728dd1577521606
+demos.creative-tim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

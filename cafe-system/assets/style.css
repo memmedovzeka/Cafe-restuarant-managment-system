@@ -1,0 +1,11 @@
+#div1{
+    min-height: 630px;
+   background-color: #88DDFC;
+}
+#div2{
+    border-right: #88DDFC  dashed;
+}
+#div3{
+    height: 70px;
+    font-size: 20px;
+}
